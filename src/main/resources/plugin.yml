@@ -1,0 +1,8 @@
+name: AutoSavePlugin
+main: kr.kgaons.autosaveplugin.AutoSavePlugin
+version: 1.0.0
+
+commands:
+  autosaveplugin:
+    aliases: [asp]
+    description: autosaveplugin
